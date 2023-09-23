@@ -1,1 +1,2 @@
-# slider-project
+https://swiperjs.com/
+Neon slider
